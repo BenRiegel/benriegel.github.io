@@ -5,7 +5,6 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-
 Contact me!
 
 <form action="https://getsimpleform.com/messages?form_api_token=0bed3be2cdf6a2072401acb3b56357e5" method="post">
@@ -13,6 +12,6 @@ Contact me!
   <input type='hidden' name='redirect_to' value='http://benriegel.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Ben Riegel' />
   <input type='email' name='email' placeholder='ben.riegel@gmail.com' />
-  <textarea name='message' placeholder=''></textarea>
+  <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
